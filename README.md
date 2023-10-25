@@ -33,14 +33,14 @@ To use these code snippets, follow these general steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/design-patterns-python.git
+   git clone https://github.com/aminzayer/10-Most-System-Design-Patterns.git
     ```
 
 ## Navigate to the specific pattern you want to explore
 
 ```bash
 
-    cd design-patterns-python/singleton-pattern
+    cd 10-Most-System-Design-Patterns/singleton-pattern
 
     Open the Python file (e.g., singleton.py) in your preferred development environment or text editor to see the code and comments.
 
