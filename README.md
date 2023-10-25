@@ -40,13 +40,11 @@ To use these code snippets, follow these general steps:
 
 ```bash
 
-    cd 10-Most-System-Design-Patterns/singleton-pattern
+    cd 10-Most-System-Design-Patterns
 
-    Open the Python file (e.g., singleton.py) in your preferred development environment or text editor to see the code and comments.
+    Open the Python file (e.g., System-Design-Patterns.py) in your preferred development environment or text editor to see the code and comments.
 
     Modify the code or integrate it into your own project as needed.
-
-    Repeat steps 2-4 for other design patterns.
 ```
 
 ## Contributing
